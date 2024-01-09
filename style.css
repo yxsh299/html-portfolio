@@ -1,0 +1,29 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif; /* Use a common sans-serif font */
+    max-width: 600px; /* Set the maximum width of the content */
+    margin: 0 auto; /* Center align the content */
+    padding: 20px; /* Add some padding around the content */
+    text-align: center; /* Center align the text */
+  }
+  
+  /* Style the headings */
+  h1 {
+    color: #333; /* Set the text color to a dark gray */
+  }
+  
+  h2 {
+    color: #666; /* Set the text color to a medium gray */
+  }
+  
+  /* Style the images */
+  img {
+    display: block; /* Display the image as a block */
+    margin: 20px auto; /* Center align the image and add some margin */
+  }
+  
+  /* Style the links */
+  a {
+    text-decoration: none; /* Remove the underline from the links */
+    color: #007bff; /* Set the link color to a shade of blue */
+    margin: 0 10px; /* Add some margin around the links */
+  }
